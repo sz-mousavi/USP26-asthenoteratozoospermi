@@ -1,5 +1,4 @@
-# Novel missense variant in USP26 gene in asthenoteratozoospermia
-
+# WES analysis pipeline for the identification of the novel missense variant in the USP26 gene in asthenoteratozoospermia
 Code accompanying:
 
 > Mousavi SZ, Askari M, McElreavey K, Bashamboo A, Salehi N, Rastari M, Rokhsattalab Z, Mohammad Soltani B, Totonchi M.  
